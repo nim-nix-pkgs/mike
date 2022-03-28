@@ -11,6 +11,7 @@
   inputs.src-mike-master.ref   = "refs/heads/master";
   inputs.src-mike-master.owner = "ire4ever1190";
   inputs.src-mike-master.repo  = "mike";
+  inputs.src-mike-master.dir   = "";
   inputs.src-mike-master.type  = "github";
   
   inputs."httpx".owner = "nim-nix-pkgs";
